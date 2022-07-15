@@ -1,6 +1,6 @@
 Liya Ding's Space
 
-Southeast University
+Current position: AP in Southeast University
 
 Field of study:  
   Computer Vision，
