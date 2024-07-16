@@ -1,6 +1,6 @@
 Liya Ding's Space
 
-Current position: AP in Southeast University
+Current position: Data Scientist at the University of Chicago
 
 Field of study:  
   Computer Vision，
